@@ -1,5 +1,5 @@
 
-![I am Cloud Data Engineer.](https://github.com/HenryKpano/Henry/banner.png)
+![I am Cloud Data Engineer.](https://github.com/HenryKpano/Henry/blob/main/banner.png)
 
 #### 👋 Hi there, I'm Henry, a Cloud Data Engineer with a passion for building and managing scalable, reliable infrastructure also building data pipelines and enhancing analytics.
 
